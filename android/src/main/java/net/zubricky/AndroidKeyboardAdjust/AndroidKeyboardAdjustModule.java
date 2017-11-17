@@ -18,7 +18,7 @@ public class AndroidKeyboardAdjustModule extends ReactContextBaseJavaModule {
 
     @Override
     public String getName() {
-        return "AndroidKeyboardAdjust";
+        return "RCTAndroidKeyboardAdjust";
     }
 
     @ReactMethod
