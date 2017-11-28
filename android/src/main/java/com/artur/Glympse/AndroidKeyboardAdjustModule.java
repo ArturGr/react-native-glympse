@@ -1,4 +1,4 @@
-package net.zubricky.AndroidKeyboardAdjust;
+package com.artur.Glympse;
 
 import android.app.Activity;
 import android.view.WindowManager;
