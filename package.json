@@ -1,9 +1,9 @@
 {
-  "name": "react-native-android-keyboard-adjust",
+  "name": "react-native-glympse",
   "version": "1.1.1",
-  "description": "Change the input mode for the Android keyboard in a React Native app.",
+  "description": "Glympse SDK",
   "main": "index.js",
-  "author": "Marc Zubricky <marc.zubricky@gmail.com>",
+  "author": "Artur Gräfenstein <graefenstein.artur@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "react-native": "^0.29.0"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zubricky/react-native-android-keyboard-adjust.git"
+    "url": "git+https://github.com/ArturGr/react-native-glympse.git"
   },
   "keywords": [
     "android",
@@ -24,7 +24,7 @@
     "input"
   ],
   "bugs": {
-    "url": "https://github.com/zubricky/react-native-android-keyboard-adjust/issues"
+    "url": "https://github.com/ArturGr/react-native-glympse//issues"
   },
-  "homepage": "https://github.com/zubricky/react-native-android-keyboard-adjust#readme"
+  "homepage": "https://github.com/ArturGr/react-native-glympse#readme"
 }
